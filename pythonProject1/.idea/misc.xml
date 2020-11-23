@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/cactusShop/mainapp/migrations/0001_initial.py" />
-    <file url="file://$PROJECT_DIR$/cactusShop/mainapp/migrations/0002_somemodel.py" />
-    <file url="file://$PROJECT_DIR$/cactusShop/mainapp/migrations/0003_delete_somemodel.py" />
-    <file url="file://$PROJECT_DIR$/cactusShop/mainapp/migrations/0004_auto_20201123_0351.py" />
-    <file url="file://$PROJECT_DIR$/cactusShop/mainapp/migrations/0005_auto_20201123_0658.py" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (Site)" project-jdk-type="Python SDK" />
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
